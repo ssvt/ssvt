@@ -18,5 +18,6 @@ I love to deal with complex and unusual projects
 ----
 ### Contacts
 You can find me on the following social media platforms or send me an email:
-+ 👍 https://t.me/vermutius
-+ 📩 svt.java@gmail.com
++ <img align="left" alt="Instagram" width="18px" src="https://cdn0.iconfinder.com/data/icons/education-53/100/.svg-7-256.png"/> https://t.me/vermutius
++ <img align="left" alt="Instagram" width="18px" src="https://icover.by/images/napisat-na-pochtu-icover-by.png"/> svt.java@gmail.com
++ <img align="left" alt="Instagram" width="18px" src="https://www.granatprint23.ru/system/ckeditor_assets/pictures/303230/content_insta-icon.png"/>https://www.instagram.com/sergey.svyatoha
