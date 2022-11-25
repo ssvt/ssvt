@@ -18,5 +18,5 @@ I love to deal with complex and unusual projects
 ----
 ### Contacts
 You can find me on the following social media platforms or send me an email:
-+    https://t.me/vermutius
++ 👍 https://t.me/vermutius
 + 📩 svt.java@gmail.com
