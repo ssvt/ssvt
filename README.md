@@ -1,16 +1,22 @@
-### Hi, I'm Sergey 😜
+# **Hi, I'm Sergey**🤝
 
-<!--
-**ssvt/ssvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a java developer and radio electronics engineer
+I am a radio electronics engineer by education, and I have always had to write either in assembler or in C for microcontrollers,
+and only for the last 4 years I have been writing in java. But the principles of building algorithms and complex structures 
+are the merit of 15 years of old school experience. 
+I love to deal with complex and unusual projects
 
-Here are some ideas to get you started:
+----
+### Skills and Tools 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ Java
++ Spring Framework
++ PostgreSQL
++ Hibernate ORM
++ Angular
+
+----
+### Contacts
+You can find me on the following social media platforms or send me an email:
++    https://t.me/vermutius
++ 📩 svt.java@gmail.com
